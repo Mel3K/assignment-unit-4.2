@@ -1,0 +1,9 @@
+html
+ header {
+    border: 3cap; background-color: aqua; background-size: 10cap;}
+h1 {font-family: 'Courier New', Courier, monospace;}
+h2 {background-color: blueviolet;}
+.info {background-color: blueviolet;}
+img {
+    align-items: center;
+}
