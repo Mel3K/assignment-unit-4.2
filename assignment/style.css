@@ -1,9 +1,9 @@
 html
  header {
-    border: 3cap; background-color: aqua; background-size: 10cap;}
+    border: 3cap; background-color: rgb(215, 227, 227); background-size: 10cap; font-style: oblique;}
 h1 {font-family: 'Courier New', Courier, monospace;}
-h2 {background-color: blueviolet;}
-.info {background-color: blueviolet;}
-img {
+h2 {background-color: rgb(43, 89, 226);}
+.info {background-color: dimgray;  }
+.center { border-color: aliceblue; background-position: 6;
     align-items: center;
-}
+};
